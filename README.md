@@ -1,5 +1,3 @@
-## Monika Szczepańska R00275282
-
 This Jetpack Compose application is a simple fitness planner that allows users to browse available workouts, schedule their training sessions, and add personal notes with date and time details.  
 The app consists of three main screens.
 
