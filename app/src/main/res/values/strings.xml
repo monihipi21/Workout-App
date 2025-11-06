@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Projekt</string>
+
+
+        <string name="desc_aerobics">It is a physical activity that uses your body\'s large muscle groups, is rhythmic and repetitive. It increases your heart rate and how much oxygen your body uses. Examples of aerobic exercises include walking, cycling and swimming.</string>
+        <string name="desc_bodypump">Body Pump classes are made up of medium to high level intensity resistance training using a barbell to complete all of the exercises.</string>
+        <string name="desc_crossfit">It is a strength, conditioning, and overall fitness program consisting mainly of a mix of aerobic (cardio) exercises, calisthenics (bodyweight exercises), and weightlifting</string>
+        <string name="desc_cycling">It can be a low-impact workout, an efficient way to commute, a competitive sport, or a leisure activity. Cyclists can ride individually or in groups on various terrains.</string>
+        <string name="desc_kickboxing">Kickboxing is a martial arts-inspired workout that involves quick movements, including punching and kicking. Proven benefits of kickboxing include more muscle strength, better agility, and less stress.</string>
+        <string name="desc_pilates">Pilates is not a cardiovascular workout, but rather a strength and flexibility workout. There are various elements that contribute to distinguishing Pilates from other forms of resistance training. For example, Pilates places a heavy emphasis on breathwork and creating a mind-body connection.</string>
+        <string name="desc_ropejumping">Skipping rope provides numerous benefits, including improved cardiovascular health and bone density, enhanced coordination and agility, and effective calorie burning for weight management.</string>
+        <string name="desc_strengthtraining">Strength training, also known as resistance training, is any exercise that causes muscles to contract against an external resistance to build strength, muscle mass, and endurance.</string>
+        <string name="desc_yoga">Yoga is an ancient Indian practice that connects the body, breath, and mind through physical postures, breathing exercises, and meditation.</string>
+        <string name="desc_zumba">Zumba is a high-energy dance fitness program that fuses Latin-inspired dance with aerobic exercise. It combines a variety of dance styles, such as salsa, merengue, cumbia, and hip hop.</string>
+
+
+</resources>
